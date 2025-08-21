@@ -27,7 +27,7 @@ This project demonstrates **OOP concepts**, database connectivity using **JDBC**
    CREATE TABLE users (
        id INT AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(100) NOT NULL,
-       accno INT UNIQUE NOT NULL,
+       acc_no INT UNIQUE NOT NULL,
        pin INT NOT NULL,
        phone VARCHAR(15),
        email VARCHAR(100),
@@ -38,7 +38,7 @@ This project demonstrates **OOP concepts**, database connectivity using **JDBC**
 3. Insert sample user:
 
    ```sql
-   INSERT INTO users (name, accno, pin, phone, email, balance)
+   INSERT INTO users (name, acc_no, pin, phone, email, balance)
    VALUES ('user', 1111, 1234, '9999999999', 'user@example.com', 7723);
    ```
 
