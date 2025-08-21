@@ -71,7 +71,7 @@ This project demonstrates **OOP concepts**, database connectivity using **JDBC**
 
    ```bash
    javac -cp .:mysql-connector-java-8.0.33.jar *.java
-   java -cp .:mysql-connector-java-8.0.33.jar MainApp
+   java -cp .:mysql-connector-java-8.0.33.jar Main
    ```
 
    > On Windows, replace `:` with `;`
