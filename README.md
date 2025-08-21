@@ -1,11 +1,10 @@
-# 🏦 Simple Banking System (Java + MySQL)
+#  Simple Banking System (Java + MySQL)
 
 A simple **Banking System** built with **Java Swing** for the GUI and **MySQL** as the database.  
 This project demonstrates **OOP concepts**, database connectivity using **JDBC**, and basic banking operations.
 
 ---
-
-## 🚀 Features
+##  Features
 - User **Login**
 - **Deposit** and **Withdraw** money
 - **Balance Enquiry**
@@ -14,7 +13,7 @@ This project demonstrates **OOP concepts**, database connectivity using **JDBC**
 
 ---
 
-## 🗄 Database Setup
+##  Database Setup
 
 1. Open MySQL and create the database:
    
