@@ -39,7 +39,7 @@ This project demonstrates **OOP concepts**, database connectivity using **JDBC**
 
    ```sql
    INSERT INTO users (name, accno, pin, phone, email, balance)
-   VALUES ('Akash R', 1111, 1234, '9999999999', 'akash@example.com', 7723);
+   VALUES ('user', 1111, 1234, '9999999999', 'user@example.com', 7723);
    ```
 
 ---
